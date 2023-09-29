@@ -1,9 +1,3 @@
 def dividir(a, b):
     resultado = a / b
-<<<<<<< HEAD
-    devolver resultado
-
-hola mundo
-=======
     return resultado
->>>>>>> arreglos-caracteristica
