@@ -2,7 +2,3 @@ def dividir(a, b):
     resultado = a / b
     return resultado
 hola
-<<<<<<< HEAD
-
-=======
->>>>>>> caracteristica-nueva
